@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="day3AutomationSuite" duration-ms="19318" started-at="2020-04-22T11:45:48Z" finished-at="2020-04-22T11:46:07Z">
+    <groups>
+    </groups>
+    <test name="day3AutomationTest" duration-ms="19318" started-at="2020-04-22T11:45:48Z" finished-at="2020-04-22T11:46:07Z">
+      <class name="com.business.tests.RunnerTest">
+        <test-method status="PASS" signature="initiate()[pri:0, instance:com.business.tests.RunnerTest@6d4b1c02]" name="initiate" is-config="true" duration-ms="12096" started-at="2020-04-22T17:15:48Z" finished-at="2020-04-22T17:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="validateGoogleTermsService()[pri:5, instance:com.business.tests.RunnerTest@6d4b1c02]" name="validateGoogleTermsService" duration-ms="5193" started-at="2020-04-22T17:16:00Z" finished-at="2020-04-22T17:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGoogleTermsService -->
+        <test-method status="PASS" signature="flushDriver()[pri:0, instance:com.business.tests.RunnerTest@6d4b1c02]" name="flushDriver" is-config="true" duration-ms="1983" started-at="2020-04-22T17:16:05Z" finished-at="2020-04-22T17:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushDriver -->
+      </class> <!-- com.business.tests.RunnerTest -->
+    </test> <!-- day3AutomationTest -->
+  </suite> <!-- day3AutomationSuite -->
+</testng-results>

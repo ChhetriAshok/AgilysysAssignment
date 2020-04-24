@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.business.tests.RunnerTest">
+        <methods>
+          <include name="flushDriver"/>
+          <include name="googlePageOperations"/>
+          <include name="initiate"/>
+        </methods>
+      </class> <!-- com.business.tests.RunnerTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
