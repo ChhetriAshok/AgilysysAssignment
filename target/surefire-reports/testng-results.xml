@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="day3AutomationSuite" duration-ms="92539" started-at="2020-04-24T16:25:31 IST" finished-at="2020-04-24T16:27:04 IST">
+    <groups>
+    </groups>
+    <test name="day3AutomationTest" duration-ms="92539" started-at="2020-04-24T16:25:31 IST" finished-at="2020-04-24T16:27:04 IST">
+      <class name="com.business.tests.RunnerTest">
+        <test-method status="PASS" signature="initiate()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="initiate" is-config="true" duration-ms="16392" started-at="2020-04-24T16:25:31 IST" finished-at="2020-04-24T16:25:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="newToursValidation()[pri:1, instance:com.business.tests.RunnerTest@553a3d88]" name="newToursValidation" duration-ms="9275" started-at="2020-04-24T16:25:48 IST" finished-at="2020-04-24T16:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newToursValidation -->
+        <test-method status="PASS" signature="flushDriver()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="flushDriver" is-config="true" duration-ms="2311" started-at="2020-04-24T16:25:57 IST" finished-at="2020-04-24T16:25:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushDriver -->
+        <test-method status="PASS" signature="initiate()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="initiate" is-config="true" duration-ms="9284" started-at="2020-04-24T16:25:59 IST" finished-at="2020-04-24T16:26:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="webTableTextExtractAndDateValidation()[pri:2, instance:com.business.tests.RunnerTest@553a3d88]" name="webTableTextExtractAndDateValidation" duration-ms="4139" started-at="2020-04-24T16:26:09 IST" finished-at="2020-04-24T16:26:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTableTextExtractAndDateValidation -->
+        <test-method status="PASS" signature="flushDriver()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="flushDriver" is-config="true" duration-ms="1397" started-at="2020-04-24T16:26:13 IST" finished-at="2020-04-24T16:26:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushDriver -->
+        <test-method status="PASS" signature="initiate()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="initiate" is-config="true" duration-ms="9014" started-at="2020-04-24T16:26:14 IST" finished-at="2020-04-24T16:26:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="alertvalidation()[pri:3, instance:com.business.tests.RunnerTest@553a3d88]" name="alertvalidation" duration-ms="7786" started-at="2020-04-24T16:26:23 IST" finished-at="2020-04-24T16:26:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertvalidation -->
+        <test-method status="PASS" signature="flushDriver()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="flushDriver" is-config="true" duration-ms="1477" started-at="2020-04-24T16:26:31 IST" finished-at="2020-04-24T16:26:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushDriver -->
+        <test-method status="PASS" signature="initiate()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="initiate" is-config="true" duration-ms="9437" started-at="2020-04-24T16:26:32 IST" finished-at="2020-04-24T16:26:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="googlePageOperations()[pri:4, instance:com.business.tests.RunnerTest@553a3d88]" name="googlePageOperations" duration-ms="3444" started-at="2020-04-24T16:26:42 IST" finished-at="2020-04-24T16:26:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googlePageOperations -->
+        <test-method status="PASS" signature="flushDriver()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="flushDriver" is-config="true" duration-ms="1465" started-at="2020-04-24T16:26:45 IST" finished-at="2020-04-24T16:26:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushDriver -->
+        <test-method status="PASS" signature="initiate()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="initiate" is-config="true" duration-ms="9235" started-at="2020-04-24T16:26:47 IST" finished-at="2020-04-24T16:26:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="validateGoogleTermsService()[pri:5, instance:com.business.tests.RunnerTest@553a3d88]" name="validateGoogleTermsService" duration-ms="6125" started-at="2020-04-24T16:26:56 IST" finished-at="2020-04-24T16:27:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGoogleTermsService -->
+        <test-method status="PASS" signature="flushDriver()[pri:0, instance:com.business.tests.RunnerTest@553a3d88]" name="flushDriver" is-config="true" duration-ms="1649" started-at="2020-04-24T16:27:02 IST" finished-at="2020-04-24T16:27:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushDriver -->
+      </class> <!-- com.business.tests.RunnerTest -->
+    </test> <!-- day3AutomationTest -->
+  </suite> <!-- day3AutomationSuite -->
+</testng-results>
